@@ -1,2 +1,4 @@
 ## Daily Learning Journal
-Day 1: Tested Straight-Through vs Crossover. Straight-through is for different devices, Crossover is for same devices.
+- **Day 1: Ethernet Cable Types**
+    - Straight-Through: Used for connecting different device types.
+    - Crossover: Used for connecting same device types.
