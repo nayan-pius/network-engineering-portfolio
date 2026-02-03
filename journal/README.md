@@ -5,7 +5,9 @@ A daily record of concepts learned, challenges faced, and "Aha!" moments. This l
 
 ## 🔍 Why this exists
 Great engineering is about troubleshooting and iteration. This journal documents the *why* and *how* behind the technical decisions in the labs.
+
 ---
+
 ### 📅 Day 1: Ethernet Cable Types
 **Ethernet Basics**
 - **Straight-Through**: Used for connecting different device types
