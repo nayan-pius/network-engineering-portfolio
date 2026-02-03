@@ -1,12 +1,10 @@
-# 📓 Engineering Logbook
-**Author:** Pius Nayan
-
-A daily record of concepts learned, challenges faced, and "Aha!" moments. This logbook tracks the *process* of learning, not just the final result.
-
-## 🔍 Why this exists
-Great engineering is about troubleshooting and iteration. This journal documents the *why* and *how* behind the technical decisions in the labs.
-
----
+> **📓 Engineering Logbook**
+> 
+> **Author:** Pius Nayan
+> 
+> A daily record of concepts learned, challenges faced, and "Aha!" moments. This logbook tracks the *process* of learning, not just the final result.
+> 
+> **Why this exists:** Great engineering is about troubleshooting and iteration. This journal documents the *why* and *how* behind the technical decisions in the labs.
 
 ### 📅 Day 1: Ethernet Cable Types
 **Ethernet Basics**
