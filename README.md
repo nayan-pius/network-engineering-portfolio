@@ -30,4 +30,5 @@ This repository documents my journey from **CCNA fundamentals** to **Network Aut
 ## 📂 Quick Links
 * [**View Lab Diagrams**](./diagrams/)
 * [**View Lab**](./labs/)
+* [**View configs**](./configs/)
 * [**Read Learning Journal**](./journal/)
