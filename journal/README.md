@@ -1,30 +1,23 @@
-> **📓 Engineering Logbook**
-> 
-> **Author:** Pius Nayan
-> 
-> A daily record of concepts learned, challenges faced, and "Aha!" moments. This logbook tracks the *process* of learning, not just the final result.
-> 
-> **Why this exists:** Great engineering is about troubleshooting and iteration. This journal documents the *why* and *how* behind the technical decisions in the labs.
+# 📓 Engineering Logbook
+**Author:** Pius Nayan
+**Status:** Active Learning
 
-### 📅 Day 1: Ethernet Cable Types
-**Ethernet Basics**
-- **Straight-Through**: Used for connecting different device types
-- **Crossover**: Used for connecting same device types
+This directory serves as the central archive for my daily learning notes. While the `labs` folder contains the *technical* work, this journal documents the *mental* work: the concepts, the troubleshooting process, and the "Aha!" moments.
+
+## 🗂️ Logbook Index
+
+| Day | Topic | Key Concepts | Link to Entry |
+| :--- | :--- | :--- | :--- |
+| **01** | **The First Connection** | Layer 1, Cabling, Git Setup | [**📄 Read Day 01**](./day01/README.md) |
+| **02** | **Switching Basics** | Layer 2, MAC Addresses, Star Topology | [**📄 Read Day 02**](./day02/README.md) |
+| **03** | **Routing & Gateways** | Layer 3, Default Gateway, Router Config | [**📄 Read Day 03**](./day03/README.md) |
+| **04** | **VLANs & Segmentation** | *Pending...* | 🔒 Locked |
+| **05** | **Inter-VLAN Routing** | *Pending...* | 🔒 Locked |
 
 ---
 
-### 📅 Day 2: The Switch "Brain" (Feb 3, 2026)
-**Time Spent:** 1.5 Hours
-
-**What I Did:**
-- Transitioned from connecting two computers to building a real LAN with a Cisco 2960 Switch
-- Learned CLI (Command Line Interface) fundamentals using `enable` and `show mac address-table` commands
-
-**Key Insight:**
-- The MAC Address table population was revealing—the switch dynamically learns device locations. It starts empty, then remembers which MAC addresses map to which ports as devices communicate. The network became tangible in that moment.
-
-**Challenges Encountered:**
-- Resolved Git connectivity issues by troubleshooting browser connectivity and pinging external servers
-
-**Next Steps:**
-- Explore VLAN (Virtual LAN) configuration or introduction to Routers
+## 🔍 How to Read This Logbook
+Each daily entry is structured to cover:
+1.  **Summary:** What I built.
+2.  **Key Learnings:** The core theory I mastered.
+3.  **Troubleshooting:** The errors I faced and how I fixed them (The most valuable section).
