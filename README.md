@@ -22,7 +22,7 @@ This repository documents my journey from **CCNA fundamentals** to **Network Aut
 | :--- | :--- | :--- | :--- |
 | **01** | Physical Layer & Cabling | Peer-to-Peer Network | ✅ Completed |
 | **02** | Switching & MAC Addresses | Small Office LAN | ✅ Completed |
-| **03** | Routers & Gateways | Inter-Network Routing | 🔜 Up Next |
+| **03** | Routers & Gateways | Inter-Network Routing | ✅ Completed |
 | **04** | VLANs & Segmentation | Traffic Separation | 🔒 Locked |
 
 ---

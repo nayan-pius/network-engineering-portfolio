@@ -12,3 +12,8 @@
 
 ---
 
+## Day 3: The "Two-Room" Network(routing)
+**Concept:** Connecting Two Networks (The "Hello World" of Routing)
+![Day 2 Lab](./day03-router-lab.png)
+
+---
